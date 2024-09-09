@@ -7,4 +7,5 @@ temp = number2
 number2 = number1
 number1 = temp
 
+# print(f"Number 1: {number1}\nNumber 2: {number2}")
 print(f"Number 1: {number1}\nNumber 2: {number2}")
